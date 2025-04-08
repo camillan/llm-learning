@@ -1,1 +1,1 @@
-This repo contains code I am working with to do personal projects on LLMs.
+This repo contains code I am using to do personal projects on LLMs.
